@@ -6,7 +6,7 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0c859;
+    background-color: #f5c05f;
     color: #4c3c32;
 }
 
@@ -23,7 +23,7 @@ nav {
 }
 
 .logo img {
-    max-width: 100px;
+    max-width: 150px;
 }
 
 nav ul {
