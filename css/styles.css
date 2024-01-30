@@ -7,7 +7,7 @@ body, h1, h2, h3, p, ul, li {
 /* Apply styles to the body and overall layout */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #fde353; /* Change to your preferred background color */
+    background-color: #7caabe; /* Change to your preferred background color */
     color: #381a09;
     line-height: 1.6;
 }
@@ -26,7 +26,7 @@ header {
 
 /* Apply styles to the navigation bar */
 nav {
-    background-color: #4c3c32; /* Change to your preferred navigation bar color */
+    background-color: #703e1f; /* Change to your preferred navigation bar color */
 }
 
 ul {
