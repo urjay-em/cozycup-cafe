@@ -35,7 +35,7 @@ Join our rewards program to unlock special perks and discounts with every sip.
 <a href="https://web.facebook.com/Jameson.carabot"><img src="img/facebook.png" alt="Facebook" width="40" height="40"></a> <span style="margin-right: 15px;"></span> <a href="https://github.com/urjay-em"><img src="img/Github.png" alt="Facebook" width="40" height="40"></a>
 
 
-<img src="https://github.com/account" alt="Your Name" width="150" style="border-radius: 50%;">
+<img src="myprofil" alt="Your Name" width="150" style="border-radius: 50%;">
 
 **Name:** Jessa May A. Cajayon 
 
