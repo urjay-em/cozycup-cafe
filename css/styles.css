@@ -1,68 +1,73 @@
-/* Reset some default styles */
+/* Reset some default styles for better consistency */
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
 }
 
+/* Apply styles to the body and overall layout */
 body {
-    font-family: cursive, handwriting;
-    background-color: #fde353;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fde353; /* Change to your preferred background color */
     color: #381a09;
+    line-height: 1.6;
 }
 
 header {
-    background-color: #47341c;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-}
-
-nav {
+    position: fixed;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    top: 20px;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    font-size: 14px;
 }
 
-.logo img {
-    max-width: 125px;
+/* Apply styles to the navigation bar */
+nav {
+    background-color: #4c3c32; /* Change to your preferred navigation bar color */
 }
 
-.Logo1 img {
-    max-width: 250px;
-}
-
-nav ul {
+ul {
     list-style: none;
+    margin: 0;
+    padding: 0;
     display: flex;
-    gap: 20px;
 }
 
-nav a {
+li {
+    margin: 0 15px;
+}
+
+a {
     text-decoration: none;
-    color: #4c3c32;
-    font-weight: bold;
-    transition: color 0.3s;
+    color: white;
 }
 
-nav a:hover {
-    color: #7e685b;
-}
-
+/* Apply styles to the hero section */
 .hero {
-    text-align: center;
-    padding: 150px 0;
-    background-image: url('hero-bg.jpg');
+    text-align: left;
+    padding: 150px 200px;
+    background-image: url('bg.jpg');
     background-size: cover;
     color: white;
 }
 
 .hero h1 {
-    font-size: 36px;
+    font-size: 75px;
     margin-bottom: 20px;
 }
 
+.hero h2 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
 .hero p {
-    font-size: 18px;
-    margin-bottom: 40px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
 
 .cta-button {
@@ -71,61 +76,58 @@ nav a:hover {
     background-color: #4c3c32;
     color: white;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 25px;
 }
 
 .cta-button:hover {
-    background-color: #7e685b;
+    background-color: #3a312c;
 }
 
+/* Apply styles to the menu section */
 .menu {
     padding: 100px 0;
     text-align: center;
+    background-color: #ede4d6; /* Change to your preferred color for the 'Menu' section */
 }
 
 .menu h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
+    font-size: 40px;
+    margin-bottom: 10px;
 }
 
-.about {
-    padding: 100px 0;
-    text-align: center;
-    background-color: #ede4d6;
-}
-
-.about h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
-}
-
-.about p {
+.menu p {
     font-size: 18px;
-    max-width: 800px;
-    margin: 0 auto;
+    margin-bottom: 50px;
 }
 
-.contact {
-    padding: 100px 0;
-    text-align: center;
-    background-color: #4c3c32;
-    color: white;
+/* Apply styles to the product boxes */
+.product-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 5rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1.5rem;
+    margin-left: 200px;
+    column-gap: 1px;
 }
 
-.contact h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
+.product-box {
+    background: #8dccb9;
+    padding: 20px;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    position: relative;
 }
 
-.contact p {
-    font-size: 18px;
-    margin-bottom: 40px;
-}
-
-footer {
-    font-family: Arial, sans-serif;
-    background-color: #4c3c32;
-    color: white;
-    text-align: center;
-    padding: 20px 0;
+.product-box img {
+    margin-top: 1.5rem;
+    width: 100%; /* Ensure images take the full width of their container */
+    max-width: 200px; /* Adjust the maximum width as needed */
+    height: auto;
+    border-radius: 50%;
+    object-fit: cover;
 }
