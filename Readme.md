@@ -37,6 +37,7 @@ Join our rewards program to unlock special perks and discounts with every sip.
 
 
 <img src="myprofile.png" alt="Your Name" width="150" style="border-radius: 50%;">
+
 **Name:** Jessa May A. Cajayon 
 **Email:** 2021100212t@psu.palawan.edu.ph
 
