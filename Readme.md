@@ -32,7 +32,7 @@ Join our rewards program to unlock special perks and discounts with every sip.
 **Name:** Jameson Mark O. Carabot 
 
 **Email:** 2021100176t@psu.palawan.edu.ph
-<a href="https://web.facebook.com/Jameson.carabot"><img src="img/facebook.png" alt="Facebook" width="40" height="40"></a> <span style="margin-right: 15px;"></span> <a href="https://github.com/urjay-em"><img src="img/Github.png" alt="Facebook" width="40" height="40"></a>
+<a href="https://web.facebook.com/Jameson.carabot"><img src="img/Facebook.png" alt="Facebook" width="40" height="40"></a> <span style="margin-right: 15px;"></span> <a href="https://github.com/urjay-em"><img src="img/Github.png" alt="Facebook" width="40" height="40"></a>
 
 
 <img src="img/myprofile.png" alt="Your Name" width="150" style="border-radius: 50%;">
@@ -40,4 +40,4 @@ Join our rewards program to unlock special perks and discounts with every sip.
 **Name:** Jessa May A. Cajayon 
 
 **Email:** 2021100212t@psu.palawan.edu.ph
-<a href="https://web.facebook.com/jessa.alvarez.399826"><img src="img/facebook.png" alt="Facebook" width="40" height="40"></a> <span style="margin-right: 15px;"></span> <a href="https://github.com/JessaMayaa"><img src="img/Github.png" alt="Facebook" width="40" height="40"></a>
+<a href="https://web.facebook.com/jessa.alvarez.399826"><img src="img/Facebook.png" alt="Facebook" width="40" height="40"></a> <span style="margin-right: 15px;"></span> <a href="https://github.com/JessaMayaa"><img src="img/Github.png" alt="Facebook" width="40" height="40"></a>
