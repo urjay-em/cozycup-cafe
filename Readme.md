@@ -37,7 +37,7 @@ Join our rewards program to unlock special perks and discounts with every sip.
 ![Rewards Program](img/Screenshot8.png)
 Join our rewards program to unlock special perks and discounts with every sip.
 
-![Rewards Program](img/product9.png)
+![Rewards Program](img/Screenshot9.png)
 Join our rewards program to unlock special perks and discounts with every sip. 
 
 ## About the Authors
